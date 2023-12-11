@@ -2,7 +2,7 @@ FROM ubuntu:16.04
 MAINTAINER SFoxDev <admin@sfoxdev.com>
 
 ENV VNC_PASSWORD="" \
-		DEBIAN_FRONTEND="noninteractive" \
+    DEBIAN_FRONTEND="noninteractive" \
     LC_ALL="C.UTF-8" \
     LANG="en_US.UTF-8" \
     LANGUAGE="en_US.UTF-8"
