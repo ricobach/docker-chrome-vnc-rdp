@@ -1,11 +1,6 @@
 # Google Chrome via VNC or RDP
 
-Google Chrome via VNC or RDP container based on Ubuntu 16.04
-
-[![Docker Build Status](https://img.shields.io/docker/build/ricobach/chrome-vnc-rdp.svg?style=flat-square)]()
-[![Docker Build Status](https://img.shields.io/docker/automated/ricobach/chrome-vnc-rdp.svg?style=flat-square)]()
-[![Docker Build Status](https://img.shields.io/docker/pulls/ricobach/chrome-vnc-rdp.svg?style=flat-square)]()
-[![Docker Build Status](https://img.shields.io/docker/stars/ricobach/chrome-vnc-rdp.svg?style=flat-square)]()
+Google Chrome via VNC or RDP container based on Ubuntu 16.04 
 
 ## Usage
 
